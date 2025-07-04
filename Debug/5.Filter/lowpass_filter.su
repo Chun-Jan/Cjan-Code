@@ -1,0 +1,3 @@
+D:/5.Nhung/1.Stm32/2.Libraries/5.Filter/lowpass_filter.h:25:21:lowpass_get_update	16	static
+D:/5.Nhung/1.Stm32/2.Libraries/5.Filter/lowpass_filter.c:23:6:lowpass_init	32	static
+D:/5.Nhung/1.Stm32/2.Libraries/5.Filter/lowpass_filter.c:28:7:lowpass_update	16	static

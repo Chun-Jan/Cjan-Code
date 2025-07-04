@@ -1,0 +1,5 @@
+D:/5.Nhung/1.Stm32/2.Libraries/4.MQ135/mq135.c:41:6:MQ135_Init	16	static
+D:/5.Nhung/1.Stm32/2.Libraries/4.MQ135/mq135.c:45:7:calculateResistance	32	static
+D:/5.Nhung/1.Stm32/2.Libraries/4.MQ135/mq135.c:50:7:MQ135_CalculateR0	8	static
+D:/5.Nhung/1.Stm32/2.Libraries/4.MQ135/mq135.c:59:7:calculatePPM	40	static
+D:/5.Nhung/1.Stm32/2.Libraries/4.MQ135/mq135.c:63:7:MQ135_ReadPPM	32	static
